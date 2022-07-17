@@ -8,6 +8,7 @@ interface IntersectionObserverProps {
   threshold?: number;
 }
 
+// 暂且看不明白...
 export function useIntersectionObserver({
   target,
   root,
